@@ -6,7 +6,7 @@ index = {}
 
 modules = []
 
-doc_url = "https://bybunni.github.io/raytracing/"
+doc_url = "https://bybunni.github.io/raytracing"
 
 git_url = "https://github.com/bybunni/raytracing/tree/master/"
 
