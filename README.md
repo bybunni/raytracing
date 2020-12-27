@@ -1,4 +1,8 @@
-# nbdev template
+# raytracing
 
-Use this template to more easily create your nbdev project.
 
+
+```python
+#hide
+from raytracing.core import *
+```
